@@ -2,28 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>david friedrich</title>
-    <description>new page with some letters</description>
+    <description>Jekyll Theme Demo
+</description>
     <link>http://davidfriedrich.github.io/</link>
     <atom:link href="http://davidfriedrich.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Aug 2015 16:20:01 +0200</pubDate>
-    <lastBuildDate>Thu, 13 Aug 2015 16:20:01 +0200</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2015 18:01:42 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2015 18:01:42 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Hello, User! again</title>
-        <description>&lt;p&gt;Hi, thanks for viewing my theme! Feel free to edit it in any way you want, just be cool and leave the necessary credits somewhere visible.&lt;/p&gt;
+        <title>Hello my love!</title>
+        <description>&lt;p&gt;How are you? I&amp;#39;m so looking forward to see you again.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://davidfriedrich.github.io/images/cover.jpg&quot; alt=&quot;alt text&quot; title=&quot;Streetstyle&quot;&gt;&lt;/p&gt;
+&lt;p&gt;It will just be great.&lt;/p&gt;
 
-&lt;p&gt;And here a R plot to be included.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://davidfriedrich.github.io/images/nyc.jpg&quot; alt=&quot;alt text&quot; title=&quot;nyc&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://davidfriedrich.github.io/images/Rplot.jpeg&quot; alt=&quot;alt text&quot; title=&quot;R plot no. 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;And, I&amp;#39;m looking forward to go traveling with you again.&lt;/p&gt;
 
-&lt;p&gt;If you could star the repository, that&amp;#39;d be pretty cool as well.&lt;/p&gt;
+&lt;p&gt;It will just be great.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://davidfriedrich.github.io/images/Rplot.jpeg&quot; alt=&quot;alt text&quot; title=&quot;Liebeswachstum&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;And, I&amp;#39;m looking forward to just be with you.&lt;/p&gt;
+
+&lt;p&gt;Cause: You&amp;#39;re just my love.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 25 May 2015 00:00:00 +0200</pubDate>
-        <link>http://davidfriedrich.github.io/2015/05/25/trytrytry.html</link>
-        <guid isPermaLink="true">http://davidfriedrich.github.io/2015/05/25/trytrytry.html</guid>
+        <pubDate>Thu, 13 Aug 2015 00:00:00 +0200</pubDate>
+        <link>http://davidfriedrich.github.io/2015/08/13/try.html</link>
+        <guid isPermaLink="true">http://davidfriedrich.github.io/2015/08/13/try.html</guid>
         
         
       </item>
@@ -40,340 +47,6 @@
 &lt;li&gt;Go to &lt;code&gt;css/main.scss&lt;/code&gt; and edit &lt;code&gt;brand-color&lt;/code&gt; to any color you want to change the header color! If you want to use an image instead, check out &lt;code&gt;_sass/_layout.scss&lt;/code&gt; and edit line 6. &lt;/li&gt;
 &lt;li&gt;Delete these icky filler posts.&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;This is intended as a quick reference and showcase. For more complete info, see John Gruber&amp;#39;s original spec and the Github-flavored Markdown info page.&lt;/p&gt;
-
-&lt;p&gt;This cheatsheet is specifically Markdown Here&amp;#39;s version of Github-flavored Markdown. This differs slightly in styling and syntax from what Github uses, so what you see below might vary a little from what you get in a Markdown Here email, but it should be pretty close.&lt;/p&gt;
-
-&lt;p&gt;You can play around with Markdown on our live demo page.&lt;/p&gt;
-
-&lt;p&gt;(If you&amp;#39;re not a Markdown Here user, check out the Markdown Cheatsheet that is not specific to MDH. But, really, you should also use Markdown Here, because it&amp;#39;s awesome. &lt;a href=&quot;http://markdown-here.com&quot;&gt;http://markdown-here.com&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Table of Contents&lt;/p&gt;
-
-&lt;p&gt;Headers
-Emphasis
-Lists
-Links
-Images
-Code and Syntax Highlighting
-Tables
-Blockquotes
-Inline HTML
-Horizontal Rule
-Line Breaks
-Youtube videos&lt;/p&gt;
-
-&lt;p&gt;Headers&lt;/p&gt;
-
-&lt;h1&gt;H1&lt;/h1&gt;
-
-&lt;h2&gt;H2&lt;/h2&gt;
-
-&lt;h3&gt;H3&lt;/h3&gt;
-
-&lt;h4&gt;H4&lt;/h4&gt;
-
-&lt;h5&gt;H5&lt;/h5&gt;
-
-&lt;h6&gt;H6&lt;/h6&gt;
-
-&lt;p&gt;Alternatively, for H1 and H2, an underline-ish style:&lt;/p&gt;
-
-&lt;h1&gt;Alt-H1&lt;/h1&gt;
-
-&lt;h2&gt;Alt-H2&lt;/h2&gt;
-
-&lt;p&gt;H1
-H2&lt;/p&gt;
-
-&lt;p&gt;H3&lt;/p&gt;
-
-&lt;p&gt;H4&lt;/p&gt;
-
-&lt;p&gt;H5&lt;/p&gt;
-
-&lt;p&gt;H6&lt;/p&gt;
-
-&lt;p&gt;Alternatively, for H1 and H2, an underline-ish style:&lt;/p&gt;
-
-&lt;p&gt;Alt-H1
-Alt-H2&lt;/p&gt;
-
-&lt;p&gt;Emphasis&lt;/p&gt;
-
-&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Strong emphasis, aka bold, with &lt;strong&gt;asterisks&lt;/strong&gt; or &lt;strong&gt;underscores&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Strikethrough uses two tildes. &lt;del&gt;Scratch this.&lt;/del&gt;
-Emphasis, aka italics, with asterisks or underscores.&lt;/p&gt;
-
-&lt;p&gt;Strong emphasis, aka bold, with asterisks or underscores.&lt;/p&gt;
-
-&lt;p&gt;Combined emphasis with asterisks and underscores.&lt;/p&gt;
-
-&lt;p&gt;Strikethrough uses two tildes. Scratch this.&lt;/p&gt;
-
-&lt;p&gt;Lists&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;First ordered list item&lt;/li&gt;
-&lt;li&gt;Another item
-
-&lt;ul&gt;
-&lt;li&gt;Unordered sub-list. &lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Actual numbers don&amp;#39;t matter, just that it&amp;#39;s a number
-
-&lt;ol&gt;
-&lt;li&gt;Ordered sub-list&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;And another item.&lt;br&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Some text that should be aligned with the above item.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Unordered list can use asterisks&lt;/li&gt;
-&lt;li&gt;Or minuses&lt;/li&gt;
-&lt;li&gt;Or pluses
-First ordered list item
-Another item
-Unordered sub-list.
-Actual numbers don&amp;#39;t matter, just that it&amp;#39;s a number
-Ordered sub-list
-And another item.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Some text that should be aligned with the above item.&lt;/p&gt;
-
-&lt;p&gt;Unordered list can use asterisks
-Or minuses
-Or pluses&lt;/p&gt;
-
-&lt;p&gt;Links&lt;/p&gt;
-
-&lt;p&gt;There are two ways to create links.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.google.com&quot;&gt;I&amp;#39;m an inline-style link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.mozilla.org&quot;&gt;I&amp;#39;m a reference-style link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://slashdot.org&quot;&gt;You can use numbers for reference-style link definitions&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Or leave it empty and use the &lt;a href=&quot;http://www.reddit.com&quot;&gt;link text itself&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;URLs and URLs in angle brackets will automatically get turned into links. 
-&lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt; or &lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt; and sometimes 
-example.com (but not on Github, for example).&lt;/p&gt;
-
-&lt;p&gt;Some text to show that the reference links can follow later.&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;m an inline-style link&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;m a reference-style link&lt;/p&gt;
-
-&lt;p&gt;You can use numbers for reference-style link definitions&lt;/p&gt;
-
-&lt;p&gt;Or leave it empty and use the link text itself&lt;/p&gt;
-
-&lt;p&gt;URLs and URLs in angle brackets will automatically get turned into links. &lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt; or &lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt; and sometimes example.com (but not on Github, for example).&lt;/p&gt;
-
-&lt;p&gt;Some text to show that the reference links can follow later.&lt;/p&gt;
-
-&lt;p&gt;Images&lt;/p&gt;
-
-&lt;p&gt;Here&amp;#39;s our logo (hover to see the title text):&lt;/p&gt;
-
-&lt;p&gt;Inline-style: 
-&lt;img src=&quot;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&quot; alt=&quot;alt text&quot; title=&quot;Logo Title Text 1&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Reference-style: 
-&lt;img src=&quot;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&quot; alt=&quot;alt text&quot; title=&quot;Logo Title Text 2&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Here&amp;#39;s our logo (hover to see the title text):&lt;/p&gt;
-
-&lt;p&gt;Inline-style:  alt text&lt;/p&gt;
-
-&lt;p&gt;Reference-style:  alt text&lt;/p&gt;
-
-&lt;p&gt;Code and Syntax Highlighting&lt;/p&gt;
-
-&lt;p&gt;Code blocks are part of the Markdown spec, but syntax highlighting isn&amp;#39;t. However, many renderers -- like Github&amp;#39;s and Markdown Here -- support syntax highlighting. Markdown Here supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the highlight.js demo page.&lt;/p&gt;
-
-&lt;p&gt;Inline &lt;code&gt;code&lt;/code&gt; has &lt;code&gt;back-ticks around&lt;/code&gt; it.
-Inline code has back-ticks around it.&lt;/p&gt;
-
-&lt;p&gt;Blocks of code are either fenced by lines with three back-ticks ```, or are indented with four spaces. I recommend only using the fenced code blocks -- they&amp;#39;re easier and only they support syntax highlighting.&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;JavaScript syntax highlighting&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Python syntax highlighting&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;No language indicated, so no syntax highlighting. 
-But let&amp;#39;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;var s = &amp;quot;JavaScript syntax highlighting&amp;quot;;
-alert(s);
-s = &amp;quot;Python syntax highlighting&amp;quot;
-print s
-No language indicated, so no syntax highlighting in Markdown Here (varies on Github). 
-But let&amp;#39;s throw in a &lt;b&gt;tag&lt;/b&gt;.
-Again, to see what languages are available for highlighting, and how to write those language names, see the highlight.js demo page.&lt;/p&gt;
-
-&lt;p&gt;Tables&lt;/p&gt;
-
-&lt;p&gt;Tables aren&amp;#39;t part of the core Markdown spec, but they are part of GFM and Markdown Here supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.&lt;/p&gt;
-
-&lt;p&gt;Colons can be used to align columns.&lt;/p&gt;
-
-&lt;table&gt;&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Tables&lt;/th&gt;
-&lt;th style=&quot;text-align: center&quot;&gt;Are&lt;/th&gt;
-&lt;th style=&quot;text-align: right&quot;&gt;Cool&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;col 3 is&lt;/td&gt;
-&lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
-&lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;col 2 is&lt;/td&gt;
-&lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
-&lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;zebra stripes&lt;/td&gt;
-&lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
-&lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;p&gt;The outer pipes (|) are optional, and you don&amp;#39;t need to make the raw Markdown line up prettily. You can also use inline Markdown.&lt;/p&gt;
-
-&lt;table&gt;&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Markdown&lt;/th&gt;
-&lt;th&gt;Less&lt;/th&gt;
-&lt;th&gt;Pretty&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;em&gt;Still&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;renders&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;nicely&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;p&gt;Colons can be used to align columns.&lt;/p&gt;
-
-&lt;p&gt;Tables  Are Cool
-col 3 is    right-aligned   $1600
-col 2 is    centered    $12
-zebra stripes   are neat    $1
-The outer pipes (|) are optional, and you don&amp;#39;t need to make the raw Markdown line up prettily. You can also use inline Markdown.&lt;/p&gt;
-
-&lt;p&gt;Markdown    Less    Pretty
-Still   renders nicely
-1   2   3&lt;/p&gt;
-
-&lt;p&gt;Blockquotes&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Blockquotes are very handy in email to emulate reply text.
-This line is part of the same quote.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Quote break.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This is a very long line that will still be quoted properly when it wraps. Oh boy let&amp;#39;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can &lt;em&gt;put&lt;/em&gt; &lt;strong&gt;Markdown&lt;/strong&gt; into a blockquote. 
-Blockquotes are very handy in email to emulate reply text. This line is part of the same quote.
-Quote break.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This is a very long line that will still be quoted properly when it wraps. Oh boy let&amp;#39;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can put Markdown into a blockquote.&lt;/p&gt;
-
-&lt;p&gt;Inline HTML&lt;/p&gt;
-
-&lt;p&gt;You can also use raw HTML in your Markdown, and it&amp;#39;ll mostly work pretty well.&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;Definition list&lt;/dt&gt;
-  &lt;dd&gt;Is something people use sometimes.&lt;/dd&gt;
-
-  &lt;dt&gt;Markdown in HTML&lt;/dt&gt;
-  &lt;dd&gt;Does *not* work **very** well. Use HTML &lt;em&gt;tags&lt;/em&gt;.&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;Definition list
-Is something people use sometimes.
-Markdown in HTML
-Does &lt;em&gt;not&lt;/em&gt; work &lt;strong&gt;very&lt;/strong&gt; well. Use HTML tags.&lt;/p&gt;
-
-&lt;p&gt;Horizontal Rule&lt;/p&gt;
-
-&lt;p&gt;Three or more...&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Hyphens&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Asterisks&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Underscores
-Three or more...&lt;/p&gt;
-
-&lt;p&gt;Hyphens&lt;/p&gt;
-
-&lt;p&gt;Asterisks&lt;/p&gt;
-
-&lt;p&gt;Underscores&lt;/p&gt;
-
-&lt;p&gt;Line Breaks&lt;/p&gt;
-
-&lt;p&gt;My basic recommendation for learning how line breaks work is to experiment and discover -- hit &lt;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You&amp;#39;ll soon learn to get what you want. &amp;quot;Markdown Toggle&amp;quot; is your friend.&lt;/p&gt;
-
-&lt;p&gt;Here are some things to try out:&lt;/p&gt;
-
-&lt;p&gt;Here&amp;#39;s a line for us to start with.&lt;/p&gt;
-
-&lt;p&gt;This line is separated from the one above by two newlines, so it will be a &lt;em&gt;separate paragraph&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it&amp;#39;s a separate line in the &lt;em&gt;same paragraph&lt;/em&gt;.
-Here&amp;#39;s a line for us to start with.&lt;/p&gt;
-
-&lt;p&gt;This line is separated from the one above by two newlines, so it will be a separate paragraph.&lt;/p&gt;
-
-&lt;p&gt;This line is also begins a separate paragraph, but...
-This line is only separated by a single newline, so it&amp;#39;s a separate line in the same paragraph.&lt;/p&gt;
-
-&lt;p&gt;(Technical note: Markdown Here uses GFM line breaks, so there&amp;#39;s no need to use MD&amp;#39;s two-space line breaks.)&lt;/p&gt;
-
-&lt;p&gt;Youtube videos&lt;/p&gt;
-
-&lt;p&gt;They can&amp;#39;t be added directly but you can add an image with a link to the video like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?feature=player_embedded&amp;v=YOUTUBE_VIDEO_ID_HERE
-&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg&quot; 
-alt=&quot;IMAGE ALT TEXT HERE&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;10&quot; /&gt;&lt;/a&gt;
-Or, in pure Markdown, but losing the image sizing and border:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg&quot; alt=&quot;IMAGE ALT TEXT HERE&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 May 2015 00:00:00 +0200</pubDate>
         <link>http://davidfriedrich.github.io/2015/05/25/hello.html</link>
@@ -383,7 +56,7 @@ Or, in pure Markdown, but losing the image sizing and border:&lt;/p&gt;
       </item>
     
       <item>
-        <title>Formatting Samples // August 2015</title>
+        <title>Formatting Samples</title>
         <description>&lt;p&gt;Arctic Fox supports GFM!
 The following text has been taken from &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet&quot;&gt;this page&lt;/a&gt;.&lt;/p&gt;
 
