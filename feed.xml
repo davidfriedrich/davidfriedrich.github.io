@@ -5,8 +5,8 @@
     <description>new page with some letters</description>
     <link>http://davidfriedrich.github.io/</link>
     <atom:link href="http://davidfriedrich.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Aug 2015 16:07:23 +0200</pubDate>
-    <lastBuildDate>Thu, 13 Aug 2015 16:07:23 +0200</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2015 16:17:36 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2015 16:17:36 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -14,6 +14,10 @@
         <description>&lt;p&gt;Hi, thanks for viewing my theme! Feel free to edit it in any way you want, just be cool and leave the necessary credits somewhere visible.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://davidfriedrich.github.io/images/cover.jpg&quot; alt=&quot;alt text&quot; title=&quot;Streetstyle&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;And here a R plot to be included.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://davidfriedrich.github.io/images/Rplot.jptg&quot; alt=&quot;alt text&quot; title=&quot;R plot no. 1&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;If you could star the repository, that&amp;#39;d be pretty cool as well.&lt;/p&gt;
 </description>
